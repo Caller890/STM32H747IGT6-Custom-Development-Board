@@ -12,9 +12,7 @@
 
 # \## 📁 Project Overview
 
-# The Master Template Board provides a foundation for developing and testing:
-
-# \- Dual-core STM32H747IGT6 applications
+# \- Dual-core STM32H747IGT6 applications (M7-480Mhz \& M4-240Mhz) 
 
 # \- Custom power and I/O management
 
@@ -31,4 +29,20 @@
 # \## ⚙️ Project Structure
 
 # 
+
+
+
+
+
+
+
+
+
+
+
+
+
+!\[STM32H747IGT6 Board](images/Board\_Front.png)
+
+
 
