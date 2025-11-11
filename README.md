@@ -28,23 +28,5 @@
 
 # \## ⚙️ Project Structure
 
-# 
-
-
-
-
-
-
-
-
-
-
-
-
-
-!\[STM32H747IGT6 Board](images/board\_front.png)
-
-
-
-
+# !\[STM32H747IGT6 Boad](images/board\_front.png)
 
