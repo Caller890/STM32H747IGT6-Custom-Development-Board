@@ -42,7 +42,7 @@
 
 
 
-!\[STM32H747IGT6 Board](images/Board\_Front.png)
+!\[STM32H747IGT6 Board](images/board\_front.png)
 
 
 
