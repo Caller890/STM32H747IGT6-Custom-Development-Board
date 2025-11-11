@@ -1,0 +1,8 @@
+../Core/Src/M7_CDC_User.c:66:16:CDC_Init_User	8	static
+../Core/Src/M7_CDC_User.c:73:16:CDC_DeInit_User	4	static
+../Core/Src/M7_CDC_User.c:74:16:CDC_Control_User	16	static
+../Core/Src/M7_CDC_User.c:76:16:CDC_Receive_User	24	static
+../Core/Src/M7_CDC_User.c:89:16:CDC_TxCplt_User	24	static
+../Core/Src/M7_CDC_User.c:92:6:CDC_Available	4	static
+../Core/Src/M7_CDC_User.c:96:6:CDC_GetCharNonBlocking	16	static
+../Core/Src/M7_CDC_User.c:103:6:CDC_Read	24	static

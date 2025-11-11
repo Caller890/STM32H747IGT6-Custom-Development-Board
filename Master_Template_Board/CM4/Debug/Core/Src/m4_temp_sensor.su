@@ -1,0 +1,4 @@
+../Core/Src/m4_temp_sensor.c:5:13:M4Temp_ADC3_Calibrate	8	static
+../Core/Src/m4_temp_sensor.c:12:17:M4Temp_ReadOneShot	48	static
+../Core/Src/m4_temp_sensor.c:33:14:M4Temp_GetVDDA_FromVref	24	static
+../Core/Src/m4_temp_sensor.c:42:14:M4Temp_TempFromCal	64	static

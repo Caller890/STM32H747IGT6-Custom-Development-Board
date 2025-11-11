@@ -1,0 +1,7 @@
+../Core/Inc/M4_Pin_Map.h:157:35:M4_pin	16	static
+../Core/Inc/M4_Pin_Map.h:158:21:M4_write	16	static
+../Core/Inc/M4_Pin_Map.h:159:30:M4_read	16	static
+../Core/Src/M4_Digital_Write.c:42:7:digitalWrite	16	static
+../Core/Src/M4_Digital_Write.c:48:7:digitalToggle	24	static
+../Core/Src/M4_Digital_Write.c:55:7:digitalToggleWithLength	24	static
+../Core/Src/M4_Digital_Write.c:64:16:digitalRead	16	static

@@ -1,0 +1,6 @@
+../Core/Src/M7_Configuartion.c:42:7:ConfigurationInit	1
+../Core/Src/M7_Configuartion.c:50:7:delay	1
+../Core/Src/M7_Configuartion.c:54:7:MPU_Config_D2_NonCacheable	1
+../Core/Src/M7_Configuartion.c:72:7:Error_HandlerEx	1
+../Core/Src/M7_Configuartion.c:78:7:I2C_Scan_hi2c1	4
+../Core/Src/M7_Configuartion.c:98:7:I2C_Scan_hi2c2	4

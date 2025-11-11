@@ -1,0 +1,3 @@
+C:/Users/44782/Dropbox/Rocket Project/Code/1. Bootloaders/Custom Bootloader/CUBE_PATH/Projects/Master_Template_Board/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:74:19:HAL_SPIEx_FlushRxFifo	32	static
+C:/Users/44782/Dropbox/Rocket Project/Code/1. Bootloaders/Custom Bootloader/CUBE_PATH/Projects/Master_Template_Board/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:113:19:HAL_SPIEx_EnableLockConfiguration	24	static
+C:/Users/44782/Dropbox/Rocket Project/Code/1. Bootloaders/Custom Bootloader/CUBE_PATH/Projects/Master_Template_Board/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi_ex.c:161:19:HAL_SPIEx_ConfigureUnderrun	32	static

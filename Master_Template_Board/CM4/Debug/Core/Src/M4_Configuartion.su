@@ -1,0 +1,2 @@
+../Core/Src/M4_Configuartion.c:38:7:ConfigurationInit	8	static
+../Core/Src/M4_Configuartion.c:45:7:delay	16	static

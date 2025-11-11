@@ -1,0 +1,9 @@
+../Core/Src/M7_Serial.c:51:7:USB_RxHandler	24	static
+../Core/Src/M7_Serial.c:77:6:SerialAvailable	8	static
+../Core/Src/M7_Serial.c:81:7:SerialRead	16	static
+../Core/Src/M7_Serial.c:86:7:SerialPrint	24	static
+../Core/Src/M7_Serial.c:102:7:SerialPrintln	8	static
+../Core/Src/M7_Serial.c:107:7:SerialPrintInt	16	static
+../Core/Src/M7_Serial.c:111:7:SerialPrintFloat	16	static
+../Core/Src/M7_Serial.c:117:7:SerialIsOnline	4	static
+../Core/Src/M7_Serial.c:121:7:Data_Input	16	static

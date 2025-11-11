@@ -1,0 +1,6 @@
+../Core/Src/M7_Configuartion.c:42:7:ConfigurationInit	8	static
+../Core/Src/M7_Configuartion.c:50:7:delay	16	static
+../Core/Src/M7_Configuartion.c:54:7:MPU_Config_D2_NonCacheable	24	static
+../Core/Src/M7_Configuartion.c:72:7:Error_HandlerEx	16	static,ignoring_inline_asm
+../Core/Src/M7_Configuartion.c:78:7:I2C_Scan_hi2c1	80	static
+../Core/Src/M7_Configuartion.c:98:7:I2C_Scan_hi2c2	80	static

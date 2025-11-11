@@ -1,0 +1,7 @@
+../Core/Inc/M7_Pin_Map.h:82:38:M7_pin	16	static
+../Core/Inc/M7_Pin_Map.h:85:21:M7_write	16	static
+../Core/Inc/M7_Pin_Map.h:88:30:M7_read	16	static
+../Core/Src/M7_Digital_Write.c:42:7:digitalWrite	16	static
+../Core/Src/M7_Digital_Write.c:48:7:digitalToggle	24	static
+../Core/Src/M7_Digital_Write.c:54:7:digitalToggleWithLength	24	static
+../Core/Src/M7_Digital_Write.c:62:16:digitalRead	16	static

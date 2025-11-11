@@ -1,0 +1,2 @@
+../Core/Src/M7_IPC.c:42:5:IPC_Read_M7	80	static,ignoring_inline_asm
+../Core/Src/M7_IPC.c:73:6:IPC_PollAndPrint_M7	120	static
