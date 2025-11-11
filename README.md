@@ -28,5 +28,5 @@
 
 # \## ⚙️ Project Structure
 
-# !\[STM32H747IGT6 Boad](images/board\_front.png)
+# 
 
