@@ -2,7 +2,7 @@
 
 # 
 
-# This repository contains the \*\*STM32H747IGT6 Master Template Board\*\* project, built in \*\*STM32CubeIDE\*\*.
+# This repository contains the \*\*STM32H747IGT6 Custom Development Board\*\* Built in \*\*EasyEDA Pro\*\* \& \*\*STM32CubeIDE\*\*.
 
 # 
 
@@ -31,6 +31,4 @@
 # \## ⚙️ Project Structure
 
 # 
-
-
 
