@@ -1,0 +1,76 @@
+
+# ===== STM32CubeIDE / Eclipse =====
+
+# Workspace/toolchain bundle accidentally inside repo
+CUBE_PATH/
+
+# CubeIDE workspace metadata (never commit)
+**/.metadata/
+
+# Build output directories
+**/Debug/
+**/Release/
+**/build/
+**/out/
+**/bin/
+**/obj/
+
+# Dependency & map files
+**/*.d
+**/*.map
+**/*.lst
+**/*.list
+
+# Compiled objects & binaries
+**/*.o
+**/*.a
+**/*.elf
+**/*.hex
+**/*.bin
+
+# Logs
+**/*.log
+
+# Temporary/backup files
+*.tmp
+*.bak
+*.orig
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE caches / misc (safe to regenerate)
+**/.externalToolBuilders/
+*.launch
+STM32CubeIDE.workspace
+
+# VS Code / JetBrains (if present)
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Python cache (if you have helper scripts)
+__pycache__/
+*.pyc
+
+# ===== Do NOT ignore these (kept for clarity) =====
+# (Make sure these stay tracked when present)
+!*.ioc
+!.project
+!.cproject
+!.settings/
+!Core/
+!Drivers/
+!Middlewares/
+!Inc/
+!Src/
+!startup/
+!STM32CubeIDE/
