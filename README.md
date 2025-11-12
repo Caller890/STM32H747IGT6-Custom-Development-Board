@@ -24,7 +24,7 @@ For example, I use this dev board to test:
 - **3 x I²C Buses** (100 MHz)  
 - **2 x SPI Interfaces**  
 - **2 x 3.3 V Buses** (500 mA total)  
-- **1 x Buzzer (PWM) 
+- 1 x Buzzer (PWM) 
 - **Communication via USB Bus**
 
 ---
