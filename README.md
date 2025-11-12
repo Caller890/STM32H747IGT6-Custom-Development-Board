@@ -60,7 +60,9 @@
 
 # 
 
-# !\[Alt text](images/board\_front.png)
+# !\[Alt](../images/board\_front.png)
+
+# 
 
 # &nbsp;
 
