@@ -56,6 +56,7 @@ Do **not** adjust source code outside the following files (unless you understand
 - `M7_Shared` & `M4_Shared` allow variable sharing between cores without cache clogging — both files **must match**.  
 - `M7_CDC_User` ensures serial settings persist when the `.ioc` file is regenerated.  
 - Upload code to **both M7 & M4 cores separately, first you need to generate .elf files by building code is CubeIDE.
+
   Hold **Boot** and **Reset** buttons simultaneously  
   Release **Reset** → enters boot mode  
   In **CubeProgrammer**, select USB → refresh COM ports → find dev board  
