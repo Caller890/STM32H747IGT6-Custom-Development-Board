@@ -2,7 +2,7 @@
 
 # 
 
-# This repository contains the \*\*STM32H747IGT6 Custom Development Board\*\* Built in \*\*EasyEDA Pro\*\* \& \*\*STM32CubeIDE\*\*.
+# STM32H747IGT6 Custom Development Board Built in EasyEDA Pro \& STM32CubeIDE.
 
 # 
 
