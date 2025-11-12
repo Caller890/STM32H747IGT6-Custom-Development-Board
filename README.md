@@ -60,9 +60,13 @@
 
 # 
 
-# !\[Board Front](https://github.com/Caller890/STM32H747IGT6-Development-Board-/blob/feature/master-template-board/images/board\_front.png?raw=1)
+# !\[Board Rear](images/board\_rear.png)
 
-# 
+# !\[Gerber Front](images/gerber\_front.png)
+
+# !\[Gerber Rear](images/gerber\_rear.png)
+
+# !\[Normal View](images/normal\_view.png)
 
 # 
 
