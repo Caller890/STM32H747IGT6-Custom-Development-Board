@@ -60,11 +60,7 @@
 
 # 
 
-# <p align="center">
-
-# &nbsp; <img src="images/board\_front.png" width="500">
-
-# </p>
+# !\[Board Front](https://github.com/Caller890/STM32H747IGT6-Development-Board-/blob/feature/master-template-board/images/board\_front.png?raw=1)
 
 # 
 
