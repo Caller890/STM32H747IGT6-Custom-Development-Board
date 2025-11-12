@@ -1,4 +1,4 @@
-# \# 🧠 STM32H747IGT6 Development Board
+# 🧠 STM32H747IGT6 Development Board
 
 # 
 
