@@ -93,6 +93,8 @@ Unless you have a good understanding of STM32 \*C\* Architecture.
 
 \- M7\_Shared \& M4\_Shared allow you to share variables between each core without clogging cache, both M7 \& M4 Shared.h and Shared.c must always be the same. Refer to example in source code.
 
+\- M7_CDC_User ths allows serial settings to remain in the event of the .ioc file being updated for any reason, any code outside user begin will be automaatically deleted 
+
 \- Uploading code must be done to both M7 \& M4 cores separately. Hold both Boot \& Reset button at the same time then release Reset, this will enter boot mode.
 
 
