@@ -62,7 +62,7 @@
 
 # <p align="center">
 
-# &nbsp; <img src="https://raw.githubusercontent.com/Caller890/STM32H747IGT6-Development-Board-/feature/master-template-board/Images/board\_front.png" width="500">
+# &nbsp; <img src="images/board\_front.png" width="500">
 
 # </p>
 
