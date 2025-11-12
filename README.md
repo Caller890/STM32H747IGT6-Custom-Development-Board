@@ -1,4 +1,4 @@
-# 🧠 STM32H747IGT6 Development Board
+# 🧠 STM32H747IGT6 Custom Development Board
 
 # 
 
@@ -10,15 +10,21 @@
 
 # 
 
-# \## 📁 Project Overview
+# 📁 Project Overview
 
-# \- Dual-core STM32H747IGT6 applications (M7-480Mhz \& M4-240Mhz)
+# \- Dual-core STM32H747IGT6(M7-480Mhz \& M4-240Mhz)
 
-# \- Custom power and I/O management
+# \- 16 x GPIO
 
-# \- Communication via LoRa and UART
+# \- 3 x Analog 
 
-# \- Peripheral testing (sensors, ADCs, PWM, etc.)
+# \- 2 x I2C Bus 
+
+# \- 2 x SPI
+
+# \- 2 x 3V3 Bus (500mA Total)
+
+# \- Communication via USB
 
 # 
 
@@ -26,7 +32,7 @@
 
 # 
 
-# \## ⚙️ Project Structure
+# ⚙️ Project Structure
 
 # 
 
