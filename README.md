@@ -1,4 +1,4 @@
-# 🧠 STM32H747IGT6 Custom Development Board
+# STM32H747IGT6 Custom Development Board
 
 # 
 
@@ -56,21 +56,17 @@
 
 # \- Programming .elf files through STM32 Cube Programmer. 
 
-# \- Future revision will allow Arduino platform, however currently can only be coded in CubeIDE  
+# \- Future revision will allow Arduino platform, however currently can only be coded in CubeIDE. 
+
+# \- The board can be manufactured and pre-assembled by JLCPCB, they normally have all components in stock or the board can be self-assembled. I strongly recommend using a stencil to prevent bridging on the MCU \& regulator pins.
 
 # 
 
-# !\[Board Rear](images/board\_rear.png)
+# ---
 
-# !\[Gerber Front](images/gerber\_front.png)
 
-# !\[Gerber Rear](images/gerber\_rear.png)
 
-# !\[Normal View](images/normal\_view.png)
-
-# 
-
-# 
+# 🧠 Instructions 
 
 # 
 
