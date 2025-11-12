@@ -56,5 +56,11 @@
 
 # \- Programming .elf files through STM32 Cube Programmer. 
 
-# \- Future revision will allow Arduino platform, however currently can only be coded in CubeIDE   
+# \- Future revision will allow Arduino platform, however currently can only be coded in CubeIDE  
+
+# 
+
+# !\[Alt text](images/board\_front.png)
+
+# &nbsp;
 
