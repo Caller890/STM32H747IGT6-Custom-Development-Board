@@ -10,11 +10,11 @@
 
 
 
-# This Repository is intended for those seeking custom design to integrate into their projects, I would not recommend using this design for actual operational hardware. 
+# This Repository is intended for those seeking custom design to integrate into their projects, I would not recommend using this design for actual operational hardware.
 
 
 
-# For example I use this dev board to test Sensors Acquisition, Communication, Build Libraries, etc to integrate into my main projects!  
+# For example I use this dev board to test Sensors Acquisition, Communication, Build Libraries, etc to integrate into my main projects!
 
 
 
@@ -34,7 +34,7 @@
 
 # \- 3 x Analog (16bit)
 
-# \- 3 x I2C Bus (100Mhz) 
+# \- 3 x I2C Bus (100Mhz)
 
 # \- 2 x SPI
 
@@ -54,7 +54,7 @@
 
 # \- Constructed in STM32 CubeIDE.
 
-# \- Programming .elf files through STM32 Cube Programmer. 
+# \- Programming .elf files through STM32 Cube Programmer.
 
 # \- Future revision will allow Arduino platform, however currently can only be coded in CubeIDE.
 
@@ -66,14 +66,14 @@
 
 
 
-# 🧠 Instructions 
+# 🧠 Instructions
 
-# \- I do not recommend adjusting any of the source code outside of the following files 
+# \- I do not recommend adjusting any of the source code outside of the following files
 
 * # M7 Configuration.h
 * # M7 Configuration.c
 * # M7 Sketch.h
-* # M7 Sketch.c 
+* # M7 Sketch.c
 * # M7 Shared.h
 * # M7 Shared.c
 * # M4 Configuration.h
@@ -113,15 +113,5 @@
 
 
 
-# Soon this dev board will be capable of full duplex communication between multiple dev boards via SPI Protocol!  
-
-
-
-
-
-
-
-
-
-
+# Soon this dev board will be capable of full duplex communication between multiple dev boards via SPI Protocol!
 
