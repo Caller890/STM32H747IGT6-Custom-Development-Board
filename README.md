@@ -28,17 +28,19 @@
 
 # \- Dual-core STM32H747IGT6(M7-480Mhz \& M4-240Mhz)
 
-# \- 16 x GPIO
+# \- M7 \& M4 System LED (Controllable)
 
-# \- 3 x Analog 
+# \- 16 x GPIO (Input/Output)
 
-# \- 2 x I2C Bus 
+# \- 3 x Analog (16bit)
+
+# \- 3 x I2C Bus (100Mhz) 
 
 # \- 2 x SPI
 
 # \- 2 x 3V3 Bus (500mA Total)
 
-# \- Communication via USB
+# \- Communication via USB Bus
 
 # 
 
@@ -50,5 +52,9 @@
 
 
 
-# \- Communication via USB
+# \- Constructed in STM32 CubeIDE.
+
+# \- Programming .elf files through STM32 Cube Programmer. 
+
+
 
