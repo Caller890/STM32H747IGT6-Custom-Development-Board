@@ -68,7 +68,7 @@
 
 # 🧠 Instructions 
 
-# \- I do not recommend adjusting any of the source code outside of following files 
+# \- I do not recommend adjusting any of the source code outside of the following files 
 
 * # M7 Configuration.h
 * # M7 Configuration.c
@@ -89,7 +89,7 @@
 
 # \- Any #include library files must be placed in configuration.h on the required core.
 
-# \- M7\_Serial allow you to serial print as you would in Arduino environment, this is the same for entering charters into serial monitor to control a switch , etc.
+# \- M7\_Serial allow you to serial print as you would in Arduino environment, this is the same for entering characters into serial monitor to control a switch , etc.
 
 # \- M7\_Shared \& M4\_Shared allow you to share variables between each core without clogging cache, both M7 \& M4 Shared.h and Shared.c must always be the same. Refer to example in source code.
 
